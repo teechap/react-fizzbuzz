@@ -5,3 +5,4 @@ I made a simple Fizzbuzz implentation to learn React.js. As with all React apps,
 ```bash
 jsx --watch src/ build/
 ```
+FYI: you may need to ```npm install -g react-tools``` if you haven't already.
